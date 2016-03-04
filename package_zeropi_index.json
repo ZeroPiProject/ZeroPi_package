@@ -19,7 +19,7 @@
                     "help": {
                         "online": "https://github.com/ZeroPiProject/ZeroPi_package"
                     },
-                    "url": "https://raw.githubusercontent.com/jiexinluoye/ZeroPi_package/master/Package_Download/ZeroPi-1.6.4.zip",
+                    "url": "https://raw.githubusercontent.com/ZeroPiProject/ZeroPi_package/master/package_download/ZeroPi-1.6.4.zip",
                     "archiveFileName": "ZeroPi-1.6.4.zip",
                     "checksum": "SHA-256:715F43F107154660BD8030594FE463D7F637302F08650C309C862AC6049E0363",
                     "size": "512738",
