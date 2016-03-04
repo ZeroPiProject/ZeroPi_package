@@ -21,8 +21,8 @@
                     },
                     "url": "https://raw.githubusercontent.com/jiexinluoye/ZeroPi_package/master/Package_Download/ZeroPi-1.6.4.zip",
                     "archiveFileName": "ZeroPi-1.6.4.zip",
-                    "checksum": "SHA-256:908B65791F04F021C4455B14D0D7A160DB9F3A9491723F0279D2828EE423404B",
-                    "size": "551565",
+                    "checksum": "SHA-256:715F43F107154660BD8030594FE463D7F637302F08650C309C862AC6049E0363",
+                    "size": "512738",
                     "boards": [
                         {"name": "zeropi"}
                     ],
