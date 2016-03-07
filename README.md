@@ -7,6 +7,6 @@ ZeroPi package on arduino
 * Install Arduino 1.6.7 from the Arduino website.
 * Start Arduino and open Preferences window.
 * Enter **https://raw.githubusercontent.com/ZeroPiProject/ZeroPi_package/master/package_zeropi_index.json** into Additional Board Manager URLs field. You can add multiple URLs, separating them with commas.
-* Open Boards Manager from Tools > Board menu and install zeropi platform (and don't forget to select your ZeroPi board from Tools > Board menu after installation).
+* Open Boards Manager from Tools > Board menu and install **ZeroPi** platform (and don't forget to select your **ZeroPi** board from Tools > Board menu after installation).
 
 # Changelog
