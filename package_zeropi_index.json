@@ -50,6 +50,45 @@
                         }
                     ]
                 }
+                {
+                    "name": "ZeroPi(32-bits ARM Cortex-M0+)",
+                    "architecture": "samd",
+                    "version": "1.6.5",
+                    "category": "Arduino",
+                    "help": {
+                        "online": "https://github.com/ZeroPiProject/ZeroPi_package"
+                    },
+                    "url": "https://raw.githubusercontent.com/ZeroPiProject/ZeroPi_package/master/package_download/ZeroPi-1.6.5.zip",
+                    "archiveFileName": "ZeroPi-1.6.5.zip",
+                    "checksum": "SHA-256:B7CAFB05545CD2F159AC5BADE9482E0E31157C38EE0201125B9DEC133DD04B62",
+                    "size": "512749",
+                    "boards": [
+                        {"name": "zeropi"}
+                    ],
+                    "toolsDependencies": 
+                    [
+                        {
+                          "packager": "ZeroPi",
+                          "name": "arm-none-eabi-gcc",
+                          "version": "4.8.3-2014q1"
+                        },
+                        {
+                          "packager": "ZeroPi",
+                          "name": "bossac",
+                          "version": "1.6.1-arduino"
+                        },
+                        {
+                          "packager": "ZeroPi",
+                          "name": "openocd",
+                          "version": "0.9.0-arduino"
+                        },
+                        {
+                          "packager": "ZeroPi",
+                          "name": "CMSIS",
+                          "version": "4.0.0-atmel"
+                        }
+                    ]
+                }
             ],
             "tools":
             [
