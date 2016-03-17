@@ -49,7 +49,7 @@
                           "version": "4.0.0-atmel"
                         }
                     ]
-                }
+                },
                 {
                     "name": "ZeroPi(32-bits ARM Cortex-M0+)",
                     "architecture": "samd",
